@@ -164,27 +164,32 @@ footer {
     justify-content: space-between;
     color: white;
 }
-.leftfooter{
-   width: 50%;
+
+.leftfooter {
+    width: 50%;
 }
-.midfooter{
+
+.midfooter {
     display: flex;
     flex-direction: row;
     align-items: center;
     width: 11em;
     justify-content: space-between;
 }
-.midfooter a{
+
+.midfooter a {
     color: white;
     text-decoration: none;
 }
-.rightfooter{
+
+.rightfooter {
     display: flex;
     flex-direction: column;
     /* width: 20px;
     margin-left: 30px; */
-    
+
 }
+
 .rightfooter .icons div {
     border: 1px solid hsl(193, 100%, 96%);
     width: 45px;
@@ -198,6 +203,8 @@ footer {
     margin-top: 30px;
     cursor: pointer;
 }
-/* #copyright{
-    align-self: ;
-} */
+
+#copyright {
+
+    padding-top: 150px;
+}
